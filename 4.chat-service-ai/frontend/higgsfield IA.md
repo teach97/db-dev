@@ -1,41 +1,41 @@
-Higgsfield Video Page
+Higgsfield Video Page (Higgsfield 비디오 페이지)
 └─ /ai/video
-   ├─ 1. Video Workspace
-   │  ├─ 1.1 Video Mode
-   │  │  ├─ Create Video
-   │  │  ├─ Edit Video
-   │  │  └─ Motion Control
+   ├─ 1. Video Workspace (비디오 작업 공간)
+   │  ├─ 1.1 Video Mode (비디오 모드)
+   │  │  ├─ Create Video (비디오 만들기)
+   │  │  ├─ Edit Video (비디오 편집)
+   │  │  └─ Motion Control (모션 컨트롤)
    │  │
-   │  └─ 1.2 Create Video
-   │     ├─ Model
-   │     │  └─ General / Seedance 2.5
-   │     ├─ Input Mode
-   │     │  ├─ References
-   │     │  └─ Extend Video
-   │     ├─ Reference Input
-   │     │  └─ Add References
-   │     │     ├─ Image
-   │     │     ├─ Video
-   │     │     └─ Audio
-   │     ├─ Prompt
-   │     │  ├─ Text Input
-   │     │  ├─ Elements
-   │     │  └─ Elements On/Off
-   │     ├─ Generation Options
-   │     │  ├─ Model
-   │     │  ├─ Duration
-   │     │  ├─ Ratio
-   │     │  ├─ Resolution
-   │     │  └─ Bitrate
-   │     └─ Generate
+   │  └─ 1.2 Create Video (비디오 만들기)
+   │     ├─ Model (모델)
+   │     │  └─ General / Seedance 2.5 (일반 / Seedance 2.5)
+   │     ├─ Input Mode (입력 모드)
+   │     │  ├─ References (참조 자료)
+   │     │  └─ Extend Video (비디오 확장)
+   │     ├─ Reference Input (참조 입력)
+   │     │  └─ Add References (참조 자료 추가)
+   │     │     ├─ Image (이미지)
+   │     │     ├─ Video (비디오)
+   │     │     └─ Audio (오디오)
+   │     ├─ Prompt (프롬프트)
+   │     │  ├─ Text Input (텍스트 입력)
+   │     │  ├─ Elements (요소)
+   │     │  └─ Elements On/Off (요소 켜기/끄기)
+   │     ├─ Generation Options (생성 옵션)
+   │     │  ├─ Model (모델)
+   │     │  ├─ Duration (재생 시간)
+   │     │  ├─ Ratio (화면 비율)
+   │     │  ├─ Resolution (해상도)
+   │     │  └─ Bitrate (비트레이트)
+   │     └─ Generate (생성)
    │
-   ├─ 2. Video Content Area
-   │  ├─ History
-   │  └─ How It Works
-   │     ├─ Overview
-   │     ├─ Add Image
-   │     ├─ Choose Preset
-   │     └─ Get Video
+   ├─ 2. Video Content Area (비디오 콘텐츠 영역)
+   │  ├─ History (기록)
+   │  └─ How It Works (사용 방법)
+   │     ├─ Overview (개요)
+   │     ├─ Add Image (이미지 추가)
+   │     ├─ Choose Preset (프리셋 선택)
+   │     └─ Get Video (비디오 받기)
    │
-   └─ 3. Learning CTA
-      └─ Academy
+   └─ 3. Learning CTA (학습 CTA)
+      └─ Academy (아카데미)
